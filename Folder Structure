@@ -1,0 +1,14 @@
+/frontend
+  /public
+    index.html
+  /src
+    /components
+      SearchBar.js
+      Recommendations.js
+    /pages
+      HomePage.js
+      LoginPage.js
+      ProfilePage.js
+    App.js
+    index.js
+  package.json
